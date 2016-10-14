@@ -1,8 +1,7 @@
 ﻿
 /**
  * Module dependencies.
- * More stuff
- */
+  */
 
 var express = require('express');
 var routes = require('./routes');
