@@ -3,12 +3,18 @@
   "version": "0.0.0",
   "description": "another_azure_test",
   "main": "app.js",
-  "author": {
+  "author":
+  {
     "name": "Morrice"
   },
-  "dependencies": {
+  "dependencies":
+  {
     "express": "3.4.4",
     "jade": "*",
     "stylus": "*"
+  },
+  "scripts":
+  {
+    "start": "node server"
   }
 }
